@@ -26,4 +26,4 @@ Topics include:
 
 ## Source
 
-Most of the code gathered in this repository was learned from the courses offered by the Kaggle website. I have also added in my own comments and mark down cells in the code to help explain better for other to learn and use as a reference.
+Most of the code gathered in this repository was learned from the courses offered by the Kaggle website: https://www.kaggle.com/learn/overview. I have also added in my own comments and mark down cells in the code to help explain better for other to learn and use as a reference.

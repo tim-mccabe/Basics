@@ -22,7 +22,7 @@ Topics include:
   * Natural Language Processing (NLP)
   * Geospatial Analysis
   * Machine Learning Explainability
-  Game AI and Reinforcement Learning
+  * Game AI and Reinforcement Learning
 
 ## Source
 
